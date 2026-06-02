@@ -50,9 +50,9 @@ Internal monitoring system that tracks administrative activities and automatical
 
 ### Screenshots
 
-![Audit Monitoring 1](assets/audit-monitoring/audit-1.png)
+![Audit Monitoring 1](assets/audit-monitoring/Audit - 1.png)
 
-![Audit Monitoring 2](assets/audit-monitoring/audit-2.png)
+![Audit Monitoring 2](assets/audit-monitoring/Audit - 2.png)
 
 ---
 
